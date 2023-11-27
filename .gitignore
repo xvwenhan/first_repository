@@ -1,0 +1,16 @@
+*.sln
+*.json
+plants_vs_zombie/cocos2d/
+plants_vs_zombie/proj.android/
+plants_vs_zombie/proj.ios_mac/
+plants_vs_zombie/proj.linux/
+*.cmake
+*.ttf
+*.png
+*.ico
+*.filters
+*.rc
+*.vcxproj
+plants_vs_zombie/Resources/res/.gitkeep
+*.user
+plants_vs_zombie/CMakeLists.txt
