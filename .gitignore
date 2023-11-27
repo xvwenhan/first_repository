@@ -1,4 +1,4 @@
-*.sln
+!*.sln
 *.json
 plants_vs_zombie/cocos2d/
 plants_vs_zombie/proj.android/
